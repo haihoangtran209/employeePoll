@@ -1,0 +1,28 @@
+.new-container {
+  width: 90%;
+  background-color: aliceblue;
+  border: 1px solid #333;
+  margin: auto;
+}
+
+.h2-new {
+  width: 100%;
+  text-align: center;
+  color: aliceblue;
+  padding: 10px;
+  background-color: blueviolet;
+  border: 1px solid #333;
+  margin: auto;
+}
+
+.row {
+  padding: 20px;
+}
+
+.col-item {
+  width: 100%;
+  text-align: center;
+  color: aliceblue;
+  padding: 10px;
+  margin: auto;
+}
